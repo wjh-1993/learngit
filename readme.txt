@@ -1,2 +1,2 @@
-当山峰没有棱角的时候，当湖水不再流。
-当我老了，头发白了，炉火旁打盹，回忆青春。
+git is a distributed version conrtol system.
+Git is free software distributed under the Gpl.
